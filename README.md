@@ -15,10 +15,10 @@
 
 ### 功能展示
 
-![输入图片说明](GPURenderKit/%E8%AF%A6%E6%83%85%E5%9B%BE.png)
+![输入图片说明](https://gitee.com/MeiHuSDK/meihu-meiyan/raw/master/QQ%E5%9B%BE%E7%89%8720220323170222.png)
 
 ### 版本对比
-![输入图片说明](%E7%BE%8E%E7%8B%90%E7%BE%8E%E9%A2%9CSDK%E5%8A%9F%E8%83%BD%E5%AF%B9%E6%AF%94%E8%A1%A8.jpg)
+![输入图片说明](https://gitee.com/MeiHuSDK/meihu-meiyan/raw/master/QQ%E5%9B%BE%E7%89%8720220323170228.png)
 
 ### 开源版使用须知
 
