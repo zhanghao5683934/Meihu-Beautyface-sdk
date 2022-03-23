@@ -15,11 +15,11 @@ After downloading the project, open the real machine with Xcode and run it to sh
 Meihu beauty SDK，with face recognition technology as the core, the mobile SDK provides professional real-time beauty, big eyes and thin face, beauty filters, dynamic stickers and other filters. With the goal of creating multi-functional video beauty software, it fully meets the beautification needs of customers in live beauty, short video beauty and many other audio and video software business scenes. Now the open source iOS version, Android open source version is under development, please look forward to!
 
 ### Function display
+![输入图片说明](https://gitee.com/MeiHuSDK/meihu-meiyan/raw/master/QQ%E5%9B%BE%E7%89%8720220323170222.png)
 
-![输入图片说明](GPURenderKit/%E8%AF%A6%E6%83%85%E5%9B%BE.png)
 
 ### Version of the contrast
-![输入图片说明](%E7%BE%8E%E7%8B%90%E7%BE%8E%E9%A2%9CSDK%E5%8A%9F%E8%83%BD%E5%AF%B9%E6%AF%94%E8%A1%A8.jpg)
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0916/185939_2e66c575_9236797.png "wxer1.png")
 
 ### Open Source Edition Usage notes
 
