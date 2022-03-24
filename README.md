@@ -15,7 +15,7 @@
 
 ### 功能展示
 
-![输入图片说明](https://gitee.com/MeiHuSDK/meihu-meiyan/raw/master/meihumeiyan.png)
+![输入图片说明](https://github.com/zhanghao5683934/Meihu-FaceBeauty-Live/blob/main/meihumeiyan.png?raw=true)
 
 ### 版本对比
 ![输入图片说明](https://gitee.com/MeiHuSDK/meihu-meiyan/raw/master/QQ%E5%9B%BE%E7%89%8720220323170228.png)
