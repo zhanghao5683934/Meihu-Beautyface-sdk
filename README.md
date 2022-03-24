@@ -15,7 +15,7 @@
 
 ### 功能展示
 
-![输入图片说明](https://gitee.com/MeiHuSDK/meihu-meiyan/raw/master/QQ%E5%9B%BE%E7%89%8720220323170222.png)
+![输入图片说明](https://gitee.com/MeiHuSDK/meihu-meiyan/blob/master/QQ%E5%9B%BE%E7%89%8720220323170222.png)
 
 ### 版本对比
 ![输入图片说明](https://gitee.com/MeiHuSDK/meihu-meiyan/raw/master/QQ%E5%9B%BE%E7%89%8720220323170228.png)
