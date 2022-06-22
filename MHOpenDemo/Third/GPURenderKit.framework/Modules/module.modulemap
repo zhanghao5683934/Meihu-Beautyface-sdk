@@ -1,0 +1,6 @@
+framework module GPURenderKit {
+  umbrella header "GPURenderKit.h"
+
+  export *
+  module * { export * }
+}
