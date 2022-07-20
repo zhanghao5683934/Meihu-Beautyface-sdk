@@ -1,8 +1,8 @@
 <div align=center><img src="https://images.gitee.com/uploads/images/2021/0807/140824_628c2001_9236797.png" /></div>
 <div align=center><img src="https://images.gitee.com/uploads/images/2021/0807/140839_fa112ac1_9236797.png" /></div>
 
-### 美狐美颜开源版（如果对你有用，请给个star！)
-### Meihu beauty open source version (if it is useful to you, please give a star!)
+### 美狐美颜开源版（如果对你有用，请给个star和fork！)
+### Meihu beauty open source version (if it is useful to you, please give a star and fork!)
 
 ### 演示Demo
 - 美颜演示下载地址Beauty demo download address: <a target="_blank" href="http://fir.facegl.com/yetc">http://fir.facegl.com/yetc</a>
